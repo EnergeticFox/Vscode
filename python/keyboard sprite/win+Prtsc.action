@@ -1,0 +1,7 @@
+{"name": "keyboard", "event": "press", "vk": 91}
+{"name": "keyboard", "event": "press", "vk": 44}
+{"name": "keyboard", "event": "release", "vk": 44}
+{"name": "keyboard", "event": "release", "vk": 91}
+{"name": "keyboard", "event": "press", "vk": 39}
+{"name": "keyboard", "event": "release", "vk": 39}
+{"name": "keyboard", "event": "press", "vk": 27}
